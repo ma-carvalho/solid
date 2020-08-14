@@ -1,0 +1,2 @@
+C:\Projects\C#\SOLID\EP.SOLID\obj\Debug\EP.SOLID.csprojAssemblyReference.cache
+C:\Projects\C#\SOLID\EP.SOLID\obj\Debug\EP.SOLID.csproj.CoreCompileInputs.cache
